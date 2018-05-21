@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcroat" format="1">
+  <advance width="249"/>
+  <unicode hex="0110"/>
+  <outline>
+    <contour>
+      <point x="33" y="692" type="line"/>
+      <point x="224" y="692" type="line"/>
+      <point x="224" y="706" type="line"/>
+      <point x="170" y="760" type="line"/>
+      <point x="33" y="760" type="line"/>
+    </contour>
+    <contour>
+      <point x="131" y="362" type="line"/>
+      <point x="131" y="398" type="line"/>
+      <point x="107" y="398" type="line"/>
+      <point x="107" y="672" type="line"/>
+      <point x="33" y="672" type="line"/>
+      <point x="33" y="398" type="line"/>
+      <point x="3" y="398" type="line"/>
+      <point x="3" y="362" type="line"/>
+      <point x="33" y="362" type="line"/>
+      <point x="33" y="88" type="line"/>
+      <point x="107" y="88" type="line"/>
+      <point x="107" y="362" type="line"/>
+    </contour>
+    <contour>
+      <point x="224" y="672" type="line"/>
+      <point x="150" y="672" type="line"/>
+      <point x="150" y="88" type="line"/>
+      <point x="224" y="88" type="line"/>
+    </contour>
+    <contour>
+      <point x="224" y="68" type="line"/>
+      <point x="33" y="68" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="169" y="0" type="line"/>
+      <point x="224" y="54" type="line"/>
+    </contour>
+  </outline>
+</glyph>

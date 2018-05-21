@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslashacute" format="1">
+  <advance width="220"/>
+  <unicode hex="01FF"/>
+  <outline>
+    <contour>
+      <point x="126" y="565" type="line"/>
+      <point x="187" y="626" type="line"/>
+      <point x="187" y="688" type="line"/>
+      <point x="139" y="688" type="line"/>
+      <point x="116" y="601" type="line"/>
+      <point x="80" y="601" type="line"/>
+      <point x="80" y="565" type="line"/>
+    </contour>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="149" y="0" type="line"/>
+      <point x="198" y="49" type="line"/>
+      <point x="198" y="488" type="line"/>
+      <point x="165" y="520" type="line"/>
+      <point x="168" y="537" type="line"/>
+      <point x="71" y="537" type="line"/>
+      <point x="22" y="488" type="line"/>
+      <point x="22" y="49" type="line"/>
+      <point x="56" y="14" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="480" type="line"/>
+      <point x="82" y="172" type="line"/>
+      <point x="82" y="480" type="line"/>
+    </contour>
+    <contour>
+      <point x="138" y="358" type="line"/>
+      <point x="138" y="57" type="line"/>
+      <point x="87" y="57" type="line"/>
+    </contour>
+  </outline>
+</glyph>

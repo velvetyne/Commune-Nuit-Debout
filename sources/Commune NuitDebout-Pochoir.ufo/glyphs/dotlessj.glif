@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessj" format="1">
+  <advance width="122"/>
+  <unicode hex="0237"/>
+  <outline>
+    <contour>
+      <point x="47" y="-223" type="line"/>
+      <point x="100" y="-172" type="line"/>
+      <point x="100" y="537" type="line"/>
+      <point x="32" y="537" type="line"/>
+      <point x="32" y="-159" type="line"/>
+      <point x="-4" y="-159" type="line"/>
+      <point x="-4" y="-223" type="line"/>
+    </contour>
+  </outline>
+</glyph>

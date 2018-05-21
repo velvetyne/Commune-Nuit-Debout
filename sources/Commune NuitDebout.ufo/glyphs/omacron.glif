@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omacron" format="1">
+  <advance width="220"/>
+  <unicode hex="014D"/>
+  <outline>
+    <contour>
+      <point x="46" y="579" type="line"/>
+      <point x="182" y="579" type="line"/>
+      <point x="182" y="622" type="line"/>
+      <point x="46" y="622" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="0" type="line"/>
+      <point x="149" y="0" type="line"/>
+      <point x="198" y="49" type="line"/>
+      <point x="198" y="488" type="line"/>
+      <point x="149" y="537" type="line"/>
+      <point x="71" y="537" type="line"/>
+      <point x="22" y="488" type="line"/>
+      <point x="22" y="49" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="473" type="line"/>
+      <point x="130" y="64" type="line"/>
+      <point x="90" y="64" type="line"/>
+      <point x="90" y="473" type="line"/>
+    </contour>
+  </outline>
+</glyph>

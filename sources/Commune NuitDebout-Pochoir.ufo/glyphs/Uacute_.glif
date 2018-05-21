@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uacute" format="1">
+  <advance width="241"/>
+  <unicode hex="00DA"/>
+  <outline>
+    <contour>
+      <point x="133" y="788" type="line"/>
+      <point x="194" y="849" type="line"/>
+      <point x="194" y="911" type="line"/>
+      <point x="146" y="911" type="line"/>
+      <point x="123" y="824" type="line"/>
+      <point x="87" y="824" type="line"/>
+      <point x="87" y="788" type="line"/>
+    </contour>
+    <contour>
+      <point x="99" y="88" type="line"/>
+      <point x="99" y="760" type="line"/>
+      <point x="25" y="760" type="line"/>
+      <point x="25" y="88" type="line"/>
+    </contour>
+    <contour>
+      <point x="216" y="88" type="line"/>
+      <point x="216" y="760" type="line"/>
+      <point x="142" y="760" type="line"/>
+      <point x="142" y="88" type="line"/>
+    </contour>
+    <contour>
+      <point x="216" y="68" type="line"/>
+      <point x="25" y="68" type="line"/>
+      <point x="25" y="54" type="line"/>
+      <point x="79" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="216" y="54" type="line"/>
+    </contour>
+  </outline>
+</glyph>

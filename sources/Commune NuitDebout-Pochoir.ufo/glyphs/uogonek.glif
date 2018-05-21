@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uogonek" format="1">
+  <advance width="221"/>
+  <unicode hex="0173"/>
+  <outline>
+    <contour>
+      <point x="22" y="84" type="line"/>
+      <point x="90" y="84" type="line"/>
+      <point x="90" y="537" type="line"/>
+      <point x="22" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="84" type="line"/>
+      <point x="198" y="84" type="line"/>
+      <point x="198" y="537" type="line"/>
+      <point x="130" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="-76" type="line"/>
+      <point x="162" y="-76" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="198" y="64" type="line"/>
+      <point x="22" y="64" type="line"/>
+      <point x="22" y="38" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="130" y="27" type="line"/>
+      <point x="130" y="-104" type="line"/>
+      <point x="180" y="-154" type="line"/>
+      <point x="213" y="-154" type="line"/>
+    </contour>
+  </outline>
+</glyph>

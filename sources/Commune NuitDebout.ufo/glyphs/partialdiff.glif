@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="partialdiff" format="1">
+  <advance width="220"/>
+  <unicode hex="2202"/>
+  <outline>
+    <contour>
+      <point x="71" y="0" type="line"/>
+      <point x="149" y="0" type="line"/>
+      <point x="198" y="48" type="line"/>
+      <point x="198" y="702" type="line"/>
+      <point x="140" y="760" type="line"/>
+      <point x="22" y="760" type="line"/>
+      <point x="22" y="696" type="line"/>
+      <point x="130" y="696" type="line"/>
+      <point x="130" y="510" type="line"/>
+      <point x="103" y="537" type="line"/>
+      <point x="64" y="537" type="line"/>
+      <point x="22" y="496" type="line"/>
+      <point x="22" y="48" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="473" type="line"/>
+      <point x="130" y="64" type="line"/>
+      <point x="90" y="64" type="line"/>
+      <point x="90" y="473" type="line"/>
+    </contour>
+  </outline>
+</glyph>

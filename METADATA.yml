@@ -1,0 +1,18 @@
+---
+unified font repository version: "0.2"
+unified font repository url: https://github.com/raphaelbastide/Unified-Font-Repository/
+typeface family:
+  name: Commune Nuit Debout
+  tags:
+  - sans
+  - condensed
+  - curveless
+  - geometric
+  - stencil
+  repository url: https://github.com/velvetyne/Commune-Nuit-Debout
+  project url: http://studiotriple.fr/
+  tools:
+  - glyphs
+  similar fonts:
+  sample text: The quick brown fox jumps over the lazy dog
+...

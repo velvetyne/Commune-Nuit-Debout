@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ebreve" format="1">
+  <advance width="207"/>
+  <unicode hex="0114"/>
+  <outline>
+    <contour>
+      <point x="80" y="787" type="line"/>
+      <point x="128" y="787" type="line"/>
+      <point x="165" y="824" type="line"/>
+      <point x="165" y="885" type="line"/>
+      <point x="125" y="885" type="line"/>
+      <point x="125" y="825" type="line"/>
+      <point x="83" y="825" type="line"/>
+      <point x="83" y="885" type="line"/>
+      <point x="43" y="885" type="line"/>
+      <point x="43" y="824" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="692" type="line"/>
+      <point x="189" y="692" type="line"/>
+      <point x="189" y="760" type="line"/>
+      <point x="25" y="760" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="88" type="line"/>
+      <point x="99" y="88" type="line"/>
+      <point x="99" y="346" type="line"/>
+      <point x="153" y="346" type="line"/>
+      <point x="153" y="414" type="line"/>
+      <point x="99" y="414" type="line"/>
+      <point x="99" y="672" type="line"/>
+      <point x="25" y="672" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="0" type="line"/>
+      <point x="189" y="0" type="line"/>
+      <point x="189" y="68" type="line"/>
+      <point x="25" y="68" type="line"/>
+    </contour>
+  </outline>
+</glyph>

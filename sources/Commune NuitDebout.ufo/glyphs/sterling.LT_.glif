@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sterling.LT" format="1">
+  <advance width="251"/>
+  <unicode hex="E10F"/>
+  <outline>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="183" y="0" type="line"/>
+      <point x="234" y="52" type="line"/>
+      <point x="234" y="215" type="line"/>
+      <point x="166" y="215" type="line"/>
+      <point x="166" y="64" type="line"/>
+      <point x="111" y="64" type="line"/>
+      <point x="111" y="363" type="line"/>
+      <point x="170" y="363" type="line"/>
+      <point x="170" y="397" type="line"/>
+      <point x="111" y="397" type="line"/>
+      <point x="111" y="696" type="line"/>
+      <point x="139" y="696" type="line"/>
+      <point x="139" y="545" type="line"/>
+      <point x="207" y="545" type="line"/>
+      <point x="207" y="710" type="line"/>
+      <point x="157" y="760" type="line"/>
+      <point x="93" y="760" type="line"/>
+      <point x="43" y="710" type="line"/>
+      <point x="43" y="397" type="line"/>
+      <point x="10" y="397" type="line"/>
+      <point x="10" y="363" type="line"/>
+      <point x="43" y="363" type="line"/>
+      <point x="43" y="64" type="line"/>
+      <point x="10" y="64" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gdotaccent" format="1">
+  <advance width="220"/>
+  <unicode hex="0121"/>
+  <outline>
+    <contour>
+      <point x="87" y="583" type="line"/>
+      <point x="155" y="583" type="line"/>
+      <point x="155" y="649" type="line"/>
+      <point x="87" y="649" type="line"/>
+    </contour>
+    <contour>
+      <point x="198" y="473" type="line"/>
+      <point x="198" y="537" type="line"/>
+      <point x="130" y="537" type="line"/>
+      <point x="130" y="510" type="line"/>
+      <point x="103" y="537" type="line"/>
+      <point x="60" y="537" type="line"/>
+      <point x="22" y="499" type="line"/>
+      <point x="22" y="473" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="84" type="line"/>
+      <point x="90" y="453" type="line"/>
+      <point x="22" y="453" type="line"/>
+      <point x="22" y="84" type="line"/>
+    </contour>
+    <contour>
+      <point x="198" y="84" type="line"/>
+      <point x="198" y="453" type="line"/>
+      <point x="130" y="453" type="line"/>
+      <point x="130" y="84" type="line"/>
+    </contour>
+    <contour>
+      <point x="198" y="-139" type="line"/>
+      <point x="198" y="64" type="line"/>
+      <point x="22" y="64" type="line"/>
+      <point x="22" y="38" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="103" y="0" type="line"/>
+      <point x="130" y="27" type="line"/>
+      <point x="130" y="-139" type="line"/>
+    </contour>
+    <contour>
+      <point x="198" y="-159" type="line"/>
+      <point x="90" y="-159" type="line"/>
+      <point x="90" y="-73" type="line"/>
+      <point x="22" y="-73" type="line"/>
+      <point x="22" y="-174" type="line"/>
+      <point x="71" y="-223" type="line"/>
+      <point x="149" y="-223" type="line"/>
+      <point x="198" y="-174" type="line"/>
+    </contour>
+  </outline>
+</glyph>

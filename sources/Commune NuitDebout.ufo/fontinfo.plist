@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>777</integer>
+	<key>capHeight</key>
+	<integer>760</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2018, VTF (http://velvetyne.fr),
+with Reserved Font Name Commune.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.</string>
+	<key>descender</key>
+	<integer>-223</integer>
+	<key>familyName</key>
+	<string>Commune</string>
+	<key>italicAngle</key>
+	<real>0.0</real>
+	<key>openTypeHeadCreated</key>
+	<string>2018/02/04 15:25:19</string>
+	<key>openTypeHeadFlags</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+	</array>
+	<key>openTypeHeadLowestRecPPEM</key>
+	<integer>3</integer>
+	<key>openTypeHheaAscender</key>
+	<integer>777</integer>
+	<key>openTypeHheaCaretOffset</key>
+	<integer>0</integer>
+	<key>openTypeHheaCaretSlopeRise</key>
+	<integer>1</integer>
+	<key>openTypeHheaCaretSlopeRun</key>
+	<integer>0</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-223</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>200</integer>
+	<key>openTypeNameDescription</key>
+	<string>Copyright (c) 2018, VTF (http://velvetyne.fr),
+with Reserved Font Name Commune.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.</string>
+	<key>openTypeNameDesigner</key>
+	<string>Sébastien Marchal</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>sebamarchal@gmail.com</string>
+	<key>openTypeNameLicense</key>
+	<string>Copyright (c) 2018, VTF (http://velvetyne.fr),
+with Reserved Font Name Commune.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>https://opensource.org/licenses/OFL-1.1</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Sébastien Marchal</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string></string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Commune</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Nuit Debout</string>
+	<key>openTypeNameUniqueID</key>
+	<string>1.003;OPTO;Commune-NuitDebout</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 1.003;PS 1.3;hotconv 1.0.88;makeotf.lib2.5.647800 DEVELOPMENT</string>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>4</integer>
+		<integer>7</integer>
+	</array>
+	<key>openTypeOS2Panose</key>
+	<array>
+		<integer>2</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Selection</key>
+	<array>
+	</array>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>322</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>0</integer>
+	<key>openTypeOS2SubscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SubscriptXSize</key>
+	<integer>650</integer>
+	<key>openTypeOS2SubscriptYOffset</key>
+	<integer>75</integer>
+	<key>openTypeOS2SubscriptYSize</key>
+	<integer>600</integer>
+	<key>openTypeOS2SuperscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SuperscriptXSize</key>
+	<integer>650</integer>
+	<key>openTypeOS2SuperscriptYOffset</key>
+	<integer>350</integer>
+	<key>openTypeOS2SuperscriptYSize</key>
+	<integer>600</integer>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>2</integer>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>777</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-223</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>200</integer>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>OPTO</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>1063</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>223</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>postscriptDefaultWidthX</key>
+	<integer>220</integer>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptFontName</key>
+	<string>Commune-NuitDebout</string>
+	<key>postscriptForceBold</key>
+	<false/>
+	<key>postscriptFullName</key>
+	<string>CommuneNuitDebout</string>
+	<key>postscriptIsFixedPitch</key>
+	<false/>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>0</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>0</integer>
+	<key>postscriptWeightName</key>
+	<string>Normal</string>
+	<key>styleMapFamilyName</key>
+	<string>Commune Nuit Debout</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Nuit Debout</string>
+	<key>trademark</key>
+	<string></string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>3</integer>
+	<key>xHeight</key>
+	<integer>537</integer>
+</dict>
+</plist>

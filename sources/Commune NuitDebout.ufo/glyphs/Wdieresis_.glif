@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wdieresis" format="1">
+  <advance width="384"/>
+  <unicode hex="1E84"/>
+  <outline>
+    <contour>
+      <point x="132" y="795" type="line"/>
+      <point x="176" y="795" type="line"/>
+      <point x="176" y="863" type="line"/>
+      <point x="132" y="863" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="795" type="line"/>
+      <point x="252" y="795" type="line"/>
+      <point x="252" y="863" type="line"/>
+      <point x="208" y="863" type="line"/>
+    </contour>
+    <contour>
+      <point x="215" y="0" type="line"/>
+      <point x="294" y="0" type="line"/>
+      <point x="360" y="760" type="line"/>
+      <point x="286" y="760" type="line"/>
+      <point x="249" y="292" type="line"/>
+      <point x="247" y="292" type="line"/>
+      <point x="217" y="760" type="line"/>
+      <point x="155" y="760" type="line"/>
+      <point x="125" y="292" type="line"/>
+      <point x="123" y="292" type="line"/>
+      <point x="86" y="760" type="line"/>
+      <point x="12" y="760" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="185" y="402" type="line"/>
+      <point x="187" y="402" type="line"/>
+    </contour>
+  </outline>
+</glyph>

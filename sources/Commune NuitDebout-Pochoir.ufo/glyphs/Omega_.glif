@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omega" format="1">
+  <advance width="241"/>
+  <unicode hex="2126"/>
+  <outline>
+    <contour>
+      <point x="25" y="692" type="line"/>
+      <point x="216" y="692" type="line"/>
+      <point x="216" y="706" type="line"/>
+      <point x="162" y="760" type="line"/>
+      <point x="79" y="760" type="line"/>
+      <point x="25" y="706" type="line"/>
+    </contour>
+    <contour>
+      <point x="99" y="672" type="line"/>
+      <point x="25" y="672" type="line"/>
+      <point x="25" y="227" type="line"/>
+      <point x="76" y="133" type="line"/>
+      <point x="76" y="68" type="line"/>
+      <point x="25" y="68" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="114" y="0" type="line"/>
+      <point x="114" y="153" type="line"/>
+      <point x="99" y="205" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="0" type="line"/>
+      <point x="216" y="0" type="line"/>
+      <point x="216" y="68" type="line"/>
+      <point x="165" y="68" type="line"/>
+      <point x="165" y="133" type="line"/>
+      <point x="216" y="227" type="line"/>
+      <point x="216" y="672" type="line"/>
+      <point x="142" y="672" type="line"/>
+      <point x="142" y="205" type="line"/>
+      <point x="127" y="153" type="line"/>
+    </contour>
+  </outline>
+</glyph>

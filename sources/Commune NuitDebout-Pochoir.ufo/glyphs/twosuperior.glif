@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twosuperior" format="1">
+  <advance width="175"/>
+  <unicode hex="00B2"/>
+  <outline>
+    <contour>
+      <point x="146" y="725" type="line"/>
+      <point x="111" y="760" type="line"/>
+      <point x="64" y="760" type="line"/>
+      <point x="29" y="725" type="line"/>
+      <point x="29" y="715" type="line"/>
+      <point x="146" y="715" type="line"/>
+    </contour>
+    <contour>
+      <point x="74" y="695" type="line"/>
+      <point x="29" y="695" type="line"/>
+      <point x="29" y="648" type="line"/>
+      <point x="74" y="648" type="line"/>
+    </contour>
+    <contour>
+      <point x="29" y="445" type="line"/>
+      <point x="74" y="445" type="line"/>
+      <point x="74" y="533" type="line"/>
+      <point x="106" y="533" type="line"/>
+      <point x="146" y="573" type="line"/>
+      <point x="146" y="695" type="line"/>
+      <point x="101" y="695" type="line"/>
+      <point x="101" y="578" type="line"/>
+      <point x="67" y="578" type="line"/>
+      <point x="29" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="425" type="line"/>
+      <point x="29" y="425" type="line"/>
+      <point x="29" y="380" type="line"/>
+      <point x="146" y="380" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Umacron" format="1">
+  <advance width="241"/>
+  <unicode hex="016A"/>
+  <outline>
+    <contour>
+      <point x="51" y="802" type="line"/>
+      <point x="187" y="802" type="line"/>
+      <point x="187" y="845" type="line"/>
+      <point x="51" y="845" type="line"/>
+    </contour>
+    <contour>
+      <point x="79" y="0" type="line"/>
+      <point x="162" y="0" type="line"/>
+      <point x="216" y="54" type="line"/>
+      <point x="216" y="760" type="line"/>
+      <point x="142" y="760" type="line"/>
+      <point x="142" y="68" type="line"/>
+      <point x="99" y="68" type="line"/>
+      <point x="99" y="760" type="line"/>
+      <point x="25" y="760" type="line"/>
+      <point x="25" y="54" type="line"/>
+    </contour>
+  </outline>
+</glyph>

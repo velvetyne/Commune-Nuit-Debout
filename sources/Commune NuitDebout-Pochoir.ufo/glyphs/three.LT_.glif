@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.LT" format="1">
+  <advance width="251"/>
+  <outline>
+    <contour>
+      <point x="221" y="692" type="line"/>
+      <point x="221" y="707" type="line"/>
+      <point x="167" y="760" type="line"/>
+      <point x="84" y="760" type="line"/>
+      <point x="30" y="707" type="line"/>
+      <point x="30" y="692" type="line"/>
+    </contour>
+    <contour>
+      <point x="104" y="672" type="line"/>
+      <point x="30" y="672" type="line"/>
+      <point x="30" y="555" type="line"/>
+      <point x="104" y="555" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="88" type="line"/>
+      <point x="221" y="346" type="line"/>
+      <point x="186" y="381" type="line"/>
+      <point x="221" y="415" type="line"/>
+      <point x="221" y="672" type="line"/>
+      <point x="147" y="672" type="line"/>
+      <point x="147" y="414" type="line"/>
+      <point x="89" y="414" type="line"/>
+      <point x="89" y="346" type="line"/>
+      <point x="147" y="346" type="line"/>
+      <point x="147" y="88" type="line"/>
+    </contour>
+    <contour>
+      <point x="104" y="88" type="line"/>
+      <point x="104" y="205" type="line"/>
+      <point x="30" y="205" type="line"/>
+      <point x="30" y="88" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="68" type="line"/>
+      <point x="30" y="68" type="line"/>
+      <point x="30" y="53" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="166" y="0" type="line"/>
+      <point x="221" y="53" type="line"/>
+    </contour>
+  </outline>
+</glyph>
